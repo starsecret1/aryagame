@@ -1,4 +1,4 @@
-#Developer Contract
+# Developer Contract 
 This contract lays out the relationship between Arya Game (Hereafter referred to as "the game") and the developers who work on any side of the technology.
 These technologies include, but are not limited to; frontend engineers, backend engineers, systems analysts, and server operators.
 All developers working on this project will earn a **base** pay of 10% from the net earnings of Arya Game. Any of those who are spending money on the upkeep
